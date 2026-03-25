@@ -24,6 +24,16 @@
       "id": 5,
       "text": "I failed math so many times at school, I can’t even count",
       "told": true
+    },
+    {
+      "text": "Russian dolls are so full of themselves",
+      "told": false,
+      "id": 6
+    },
+    {
+      "text": "Yo momma head so big, its got an orbit",
+      "told": true,
+      "id": 7
     }
   ]
 }
